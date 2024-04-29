@@ -1,4 +1,4 @@
-# Hermit-Crab-V2-DragonUHF-TH
+# Hermit-Crab-V2-DragonUHF-Toolhead
 ALPHA STATUS
 This design is currently untested due to issues with the CAN board on my Hermit crab 2
 
