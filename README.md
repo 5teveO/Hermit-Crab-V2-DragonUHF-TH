@@ -15,7 +15,7 @@ This is a full toolhead for use on the Hermit Crab V2 and designed for the Drago
 - Suggest ASA for printing and its 2 parts only - the Main unibody and the duct 
 - Expected total weight including hermit crab and mgn12h carraige is sub 450g
 
-- NOTES
+NOTES
 - The 3010 fan is held into the unibody using m3 screws - however i chose not to use inserts currently just tapping the holes to m3 and fixing directly into the plastic. Main reason was that the holes are quite close to the external surfaces around the holes, and when inserting the heatsets the external surfaces swell out. I am planning on trying to add material in - but for now am going to run with a tapped hole.
 
 5020 Version
