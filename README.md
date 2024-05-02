@@ -27,8 +27,7 @@ NOTES
 ![image](https://github.com/5teveO/Hermit-Crab-V2-DragonUHF-TH/assets/70500760/6758ea2a-cad2-463f-b969-758e05955f98)
 
 Standard parts in the full assembly are downloaded from Grabcad or McMaster Carr (via Fusion 360)
-PCB's are from BTT and are available on their GITHUB
-Full Model of the Hermit Crab V2 Canbus can be found at
+PCB's are from BTT and are available on their GITHUB. The Full Model of the Hermit Crab V2 Canbus can be found at
 
 https://www.printables.com/model/852257-btt-hermit-crab-v2-canbus/files
 
