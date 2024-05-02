@@ -33,3 +33,6 @@ Full Model of the Hermit Crab V2 Canbus can be found at
 https://www.printables.com/model/852257-btt-hermit-crab-v2-canbus/files
 
 https://grabcad.com/library/btt-hermit-crab-v2-canbus-1
+
+More than a bit of inspiration for this was taken from the Stinger toolhead unibody - see here for the full project https://github.com/lhndo/LH-Stinger
+
