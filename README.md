@@ -11,7 +11,7 @@ This is a full toolhead for use on the Hermit Crab V2 and designed for the Drago
 - Hermit crab V2 canbus (obviously)
 - 30x10 fan - axial
 - 2x 5020 blower or 2x 5015 blowers (There are ducts for both but not tested the 5015 version)
-- Heatset inserts (M3x4x4) or 5mm deep ones will work too.
+- Heatset inserts (M3x4x4) or 5mm deep ones will work too. Need to have an insert end of 4.3mm diameter to go in the 4.4 hole - adjust hole size to suit your heatset inserts
 - Suggest ASA for printing and its 2 parts only - the Main unibody and the duct 
 - Expected total weight including hermit crab and mgn12h carraige is sub 450g
 
