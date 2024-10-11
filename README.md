@@ -2,8 +2,7 @@
 ALPHA STATUS
 This design is currently untested due to issues with the CAN board on my Hermit crab 2
 
-Full assembly for viewing can be found here https://a360.co/3UhpdY4
-
+Full assembly for viewing can be found here [https://a360.co/3UhpdY4](https://a360.co/3BFsIlf)
 This is a full toolhead for use on the Hermit Crab V2 and designed for the Dragon UHF with extender. The design allows for either 5015 or 5020 blowers and utilised the following
 - Orbitor 2 (LDO)
 - Phaetus Dragon UHF with extender
